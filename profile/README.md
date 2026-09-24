@@ -10,3 +10,4 @@ isso é muito chato pra gente fazer
 para Windows                                       
 geometry e ganhe geometry dash mod e espanhol lança geometry de lembro
 ## EA-Sports-FC-Mobile-27-Novo
+https://github.com/wendrelldceothestop-cmd/Help-EA-Sports-FC-Mobile-27/tree/main
